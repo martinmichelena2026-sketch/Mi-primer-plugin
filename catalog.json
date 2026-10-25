@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Big Buck Bunny (mi plugin)",
+      "description": "Corto animado abierto.",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "title": "Sintel (mi plugin)",
+      "description": "Otro corto animado abierto.",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    }
+  ]
+}
