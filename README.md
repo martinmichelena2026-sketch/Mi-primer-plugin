@@ -1,2 +1,2 @@
-# Mi-primer-plugin
+# mi-plugin
 Hola mundo 
