@@ -1,0 +1,9 @@
+{
+  "id": "mi-plugin",
+  "name": "Mi primer plugin",
+  "version": "1.0.0",
+  "author": "martinmichelena2026-boceto",
+  "description": "Plugin de prueba.",
+  "contentRating": "all",
+  "catalog": "catalog.json"
+}
